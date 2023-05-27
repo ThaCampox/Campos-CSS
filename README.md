@@ -8,6 +8,6 @@
 
 Exercicio CSS
 
-![imagem legal ](./download.png)
+![imagem legal ](./imagem legal.jpg)
 
-<img src="./download.png" alt="download">
+<img src="./imagem legal.png" alt="essa é uma imagem">
