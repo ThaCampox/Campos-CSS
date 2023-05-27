@@ -8,4 +8,6 @@
 
 Exercicio CSS
 
-![ Download ] ( ./download.png )
+![imagem legal ](./download.png)
+
+<img src="./download.png" alt="download">
